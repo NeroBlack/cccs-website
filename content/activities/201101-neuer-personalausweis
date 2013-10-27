@@ -1,0 +1,11 @@
+---
+kind: event
+startdate: 2011-01-28T18:00:00Z
+duration: 1h
+title: "Neuer Personalausweis“"
+speakers:
+  -
+    name: Pi
+public: true
+---
+Vortrag bei den Jusos Heilbronn zum Thema "Neuer Personalausweis"
